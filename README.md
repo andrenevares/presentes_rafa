@@ -18,6 +18,8 @@ Seguem os itens
 ## Item 002 - Tênis Lucas Neto - Azul - Tamanho 29
 > Descrição do Site: Tênis Infantil Led Orto Kids Luccas Neto
 
+### Preço sem Frete: R$64,99
+
 ![Tenis Lucas Neto 01](https://github.com/andrenevares/presentes_rafa/blob/main/images/tenis_azul_lucas.png)
 ![Tenis Lucas Neto 02](https://github.com/andrenevares/presentes_rafa/blob/main/images/tenis_azul_lucas_02.png)
 
@@ -29,13 +31,24 @@ Seguem os itens
 
 ### Preço sem frete: R$50,00
 
+### Preço sem frete: 
 [Clique aqui para ir ao Link do Mercado Livre](https://produto.mercadolivre.com.br/MLB-1601601112-boneco-lucas-neto-com-som-_JM)
 
 ## Item 004
 > Descrição do Site: 
+
+### Preço sem frete: 
+
 [Clique aqui para ir ao Link do Mercado Livre](https://produto.mercadolivre.com.br/MLB-1160113468-boneco-pelucia-plants-vs-zombies-15cm-pronta-entrega-_JM)
+
+
+
 ## Item 005
 > Descrição do Site: 
 
+### Preço sem frete: 
+
 ## Item 006
 > Descrição do Site: 
+
+### Preço sem frete: 
