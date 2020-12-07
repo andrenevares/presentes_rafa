@@ -21,18 +21,15 @@ Seguem os itens
 
 ### Preço sem Frete: R$64,99
 
-<img src="https://github.com/andrenevares/presentes_rafa/blob/main/images/tenis_azul_lucas.png" alt="tenis lucas neto" height="200px"/>
+<img src="https://github.com/andrenevares/presentes_rafa/blob/main/images/tenis_azul_lucas.png" alt="tenis lucas neto" height="250px"/>
 <img src="https://github.com/andrenevares/presentes_rafa/blob/main/images/tenis_azul_lucas_02.png" alt="tenis lucas neto" height="200px"/>
-
-
 
 [Clique aqui para ir ao Link do Mercado Livre](https://produto.mercadolivre.com.br/MLB-1416508532-tnis-infantil-led-orto-kids-luccas-neto-_JM?attributes=FABRIC_DESIGN%3ATHVjY2FzIE5ldG8%3D%2CCOLOR_SECONDARY_COLOR%3AQXp1bA%3D%3D%2CSIZE%3AMjk%3D&quantity=1)
 
 
 ## Item 003 - Boneco Lucas Neto
 > Descrição do Site: Boneco Lucas Neto Com Som
-
-![Boneco Lucas Neto](https://github.com/andrenevares/presentes_rafa/blob/main/images/boneco_lucas_neto.png)
+<img src="https://github.com/andrenevares/presentes_rafa/blob/main/images/boneco_lucas_neto.png" alt="Boneco Lucas Neto" height="300px"/>
 
 ## Grossery Gang 01
 ![Grossery Gang](https://github.com/andrenevares/presentes_rafa/blob/main/images/grossery%20gang%20cachorro%20quente.png)
