@@ -23,8 +23,7 @@ Seguem os itens
 
 <a href="https://produto.mercadolivre.com.br/MLB-1416508532-tnis-infantil-led-orto-kids-luccas-neto-_JM?attributes=FABRIC_DESIGN%3ATHVjY2FzIE5ldG8%3D%2CCOLOR_SECONDARY_COLOR%3AQXp1bA%3D%3D%2CSIZE%3AMjk%3D&quantity=1"><img src="https://github.com/andrenevares/presentes_rafa/blob/main/images/tenis_azul_lucas.png" alt="tenis lucas neto" height="250px"></a> 
 
-<a href="href="https://produto.mercadolivre.com.br/MLB-1416508532-tnis-infantil-led-orto-kids-luccas-neto-_JM?attributes=FABRIC_DESIGN%3ATHVjY2FzIE5ldG8%3D%2CCOLOR_SECONDARY_COLOR%3AQXp1bA%3D%3D%2CSIZE%3AMjk%3D&quantity=1"> 
-<img src="https://github.com/andrenevares/presentes_rafa/blob/main/images/tenis_azul_lucas_02.png" alt="tenis lucas neto" height="200px"></a> 
+<a href="https://produto.mercadolivre.com.br/MLB-1416508532-tnis-infantil-led-orto-kids-luccas-neto-_JM?attributes=FABRIC_DESIGN%3ATHVjY2FzIE5ldG8%3D%2CCOLOR_SECONDARY_COLOR%3AQXp1bA%3D%3D%2CSIZE%3AMjk%3D&quantity=1"><img src="https://github.com/andrenevares/presentes_rafa/blob/main/images/tenis_azul_lucas_02.png" alt="tenis lucas neto" height="200px"></a> 
 
 
 
