@@ -6,7 +6,7 @@ O Rafael escolheu alguns presentes do mercado livre, e para facilitar estou cria
 
 Seguem os itens
 
-![Plants vs Zombie Logo](https://i.redd.it/06zsfnazvmb51.png)
+![Plants vs Zombie Logo](https://i.redd.it/06zsfnazvmb51.png =200px)
 
 ## Item 001 - Melancipulta de Gelo
 > Descrição do Site: Boneco Pelúcia Plants Vs Zombies 15cm Pronta Entrega
