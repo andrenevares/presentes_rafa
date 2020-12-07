@@ -20,11 +20,14 @@ Seguem os itens
 
 ![Tenis Lucas Neto 01](https://github.com/andrenevares/presentes_rafa/blob/main/images/tenis_azul_lucas.png)
 ![Tenis Lucas Neto 02](https://github.com/andrenevares/presentes_rafa/blob/main/images/tenis_azul_lucas_02.png)
+
 [Clique aqui para ir ao Link do Mercado Livre](https://produto.mercadolivre.com.br/MLB-1416508532-tnis-infantil-led-orto-kids-luccas-neto-_JM?attributes=FABRIC_DESIGN%3ATHVjY2FzIE5ldG8%3D%2CCOLOR_SECONDARY_COLOR%3AQXp1bA%3D%3D%2CSIZE%3AMjk%3D&quantity=1)
 
 
-## Item 003
-> Descrição do Site: 
+## Item 003 - Boneco Lucas Neto
+> Descrição do Site: Boneco Lucas Neto Com Som
+
+### Preço sem frete: R$50,00
 
 [Clique aqui para ir ao Link do Mercado Livre](https://produto.mercadolivre.com.br/MLB-1601601112-boneco-lucas-neto-com-som-_JM)
 
