@@ -6,6 +6,8 @@ O Rafael escolheu alguns presentes do mercado livre, e para facilitar estou cria
 
 Seguem os itens
 
+![Plants vs Zombie Logo](https://i.redd.it/06zsfnazvmb51.png)
+
 ## Item 001
 
 ## Item 002
