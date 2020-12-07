@@ -6,7 +6,7 @@ O Rafael escolheu alguns presentes do mercado livre, e para facilitar estou cria
 
 Seguem os itens
 
-<img src="https://i.redd.it/06zsfnazvmb51.png" alt="plants vs zombies logo" width="200"/>
+<img src="https://i.redd.it/06zsfnazvmb51.png" alt="plants vs zombies logo" style="display: block; margin-left: auto; margin-right: auto;  width: 50%; center"/>
 
 
 ## Item 001 - Melancipulta de Gelo
